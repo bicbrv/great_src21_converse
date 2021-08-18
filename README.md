@@ -14,7 +14,7 @@ train_dist是直接从GREAT_ASV_system工程中复制过来的说话人特征核
 
 结果要求上传.rttm文件
 
-打分系统：
+打分系统（ 一共只能上传5次！！！🤣 ）：
 >https://competitions.codalab.org/competitions/34113#learn_the_details-evaluation
 
 说话人日志参考资料：

@@ -2,7 +2,7 @@
 
 开发集路径：/nvme/zhiyong/voxsrc21_voxconverse
 
-Use API中包含最基本的VAD+基于聚类的说话人日志算法和输出流程
+`Use API.ipynb` 中包含最基本的VAD+基于聚类的说话人日志算法和输出流程
 
 VoxSRC2021路径下是官方给的开发集标签和打分脚本
 
